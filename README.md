@@ -58,3 +58,7 @@ Here are some projects I'm proud of:
 - **[Identification of Areca Nuts](https://github.com/hanushgowrav66/arecanut-background-removal)** - Developed a web app using ML & DL models like U-Net for identifying and harvesting areca nut bunches, achieving 92%-96% yield accuracy.
 - **[Pharmacy Management System](https://github.com/hanushgowrav66/pharmacy-management)** - Created a full-stack web application to automate pharmacy operations, improving data integrity and operational efficiency.
 - **[School Management System](https://github.com/hanushgowrav66/school-management-db)** - Developed a web-based system for managing school administrative tasks, allowing parents to track their children's academic progress.
+
+
+ 
+
