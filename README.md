@@ -59,6 +59,15 @@ Here are some projects I'm proud of:
 - **[Pharmacy Management System](https://github.com/hanushgowrav66/pharmacy-management)** - Created a full-stack web application to automate pharmacy operations, improving data integrity and operational efficiency.
 - **[School Management System](https://github.com/hanushgowrav66/school-management-db)** - Developed a web-based system for managing school administrative tasks, allowing parents to track their children's academic progress.
 
+## 🎗 Professional Experience
 
+- **Software Engineer at Infrrd, Bangalore, India (March 2022 - January 2023)**
+  - Designed and deployed document processing machine learning models, achieving up to an 86% accuracy rate.
+  
+- **Trainee Software Engineer at Infrrd, Bangalore, India (August 2021 - February 2022)**
+  - Developed responsive web pages using ReactJS and AngularJS, enhancing user engagement.
+
+- **Web Developer Intern at Orsus Consulting Services, Bangalore, India (August 2020 - October 2020)**
+  - Designed a responsive webpage, improving the company’s digital presence.
  
 
