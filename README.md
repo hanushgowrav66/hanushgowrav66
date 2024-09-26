@@ -69,5 +69,21 @@ Here are some projects I'm proud of:
 
 - **Web Developer Intern at Orsus Consulting Services, Bangalore, India (August 2020 - October 2020)**
   - Designed a responsive webpage, improving the company’s digital presence.
- 
 
+## 📱 Connect with Me
+
+<div>
+  <a href="https://www.linkedin.com/in/hanushgowrav66">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br>  
+  <a href="https://hanushgowrav66.github.io/">
+    <img src="https://img.shields.io/badge/Website-127780?style=flat&logo=raspberrypi&logoColor=white" alt="Website" />
+  </a>
+  <br>
+  <a href="mailto:hanushgowrav66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+  [![Visitor Count](https://visitcount.itsvg.in/api?id=hanushgowrav66&icon=0&color=0)](https://visitcount.itsvg.in)
